@@ -12,3 +12,7 @@ Welcome to Herany Open Source! Join us in developing open-source software!.
 - Improve Documentation: Help enhance our project documentation.
 
 ## Code of Conduct
+
+
+
+Thank you for being part of Herany Open Source!
