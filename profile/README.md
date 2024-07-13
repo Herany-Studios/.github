@@ -3,3 +3,12 @@
 ## Get Involved
 
 Welcome to Herany Open Source! Join us in developing open-source software!.
+
+## How to Contribute
+
+- Explore Projects: Find a project that interests you in our repositories.
+- Report Issues: Open issues on GitHub for bugs or suggestions.
+- Submit Pull Requests: Fork, make changes, and submit pull requests.
+- Improve Documentation: Help enhance our project documentation.
+
+## Code of Conduct
