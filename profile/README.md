@@ -2,4 +2,4 @@
 
 ## Get Involved
 
-Welcome to Herany Open Source! Join us in developing web frameworks, libraries, mobile apps, and developer tools.
+Welcome to Herany Open Source! Join us in developing open-source software!.
