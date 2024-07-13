@@ -2,7 +2,7 @@
 
 ## Get Involved
 
-Welcome to Herany Open Source! Join us in developing open-source software!.
+Welcome to Herany! Join us in developing open-source software!.
 
 ## How to Contribute
 
@@ -13,6 +13,6 @@ Welcome to Herany Open Source! Join us in developing open-source software!.
 
 ## Code of Conduct
 
+Read our [Code of Conduct](#) to ensure a respectful and inclusive community.
 
-
-Thank you for being part of Herany Open Source!
+Thank you for being part of Herany!
