@@ -2,7 +2,7 @@
 
 ## Get Involved
 
-Welcome to Herany! Join us in developing open-source software!.
+Welcome to Herany! Join us in developing open-source software!
 
 ## How to Contribute
 
