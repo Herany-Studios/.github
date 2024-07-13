@@ -15,4 +15,6 @@ Welcome to Herany! Join us in developing open-source software!.
 
 Read our [Code of Conduct](#) to ensure a respectful and inclusive community.
 
+----
+
 Thank you for being part of Herany!
