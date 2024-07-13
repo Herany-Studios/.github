@@ -13,7 +13,7 @@ Welcome to Herany! Join us in developing open-source software!.
 
 ## Code of Conduct
 
-Read our [Code of Conduct](#) to ensure a respectful and inclusive community.
+Read our [Code of Conduct](https://developer.herany.net/opensource/code-of-conduct) to ensure a respectful and inclusive community.
 
 ----
 
